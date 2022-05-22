@@ -10,35 +10,36 @@
   <a href="https://mnicolas94.github.io"><img src="https://komarev.com/ghpvc/?username=mnicolas94&label=Views&color=lightgrey&style=flat"/></a>
   <a href="https://twitter.com/MiguelCokTSM"><img src="https://img.shields.io/twitter/follow/MiguelCokTSM?style=social"/></a>
   <a href="https://github.com/mnicolas94"><img src="https://img.shields.io/github/followers/mnicolas94?label=follow&style=social"/></a>
-</p>
-
-<h2><a href="https://profile.codersrank.io/user/mnicolas94">CodersRank</a> stats</h2>
-<p align="center">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mnicolas94&style=--header-bg-color:%23181818;--bg-color:%23181818;--badge-bg-color:%23323232"/>
+  <a href="https://profile.codersrank.io/user/mnicolas94"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=flat&logo=CodersRank&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnicolas94&count_private=true&theme=github_dark&bg_color=181818&hide_border=true&show_icons=true&custom_title=Github%20stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnicolas94&hide=ShaderLab,HLSL&layout=compact&theme=github_dark&bg_color=181818&hide_border=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mnicolas94&count_private=true&theme=github_dark&bg_color=181818&hide_border=true&show_icons=true&custom_title=Github%20stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnicolas94&hide=ShaderLab,HLSL&layout=compact&theme=github_dark&bg_color=181818&hide_border=true"/>
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mnicolas94&bg_color=181818&color=58A6FF&line=C3D1D9&point=1F6FEB&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=mnicolas94&bg_color=181818&color=58A6FF&line=C3D1D9&point=1F6FEB&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+  </a>
+</p>
+
+<!--
+**mnicolas94/mnicolas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnicolas94&stroke=eeeeee&background=181824&ring=eeeeee&fire=eeeeee&currStreakNum=eeeeee&currStreakLabel=eeeeee&sideNums=eeeeee&sideLabels=eeeeee&dates=eeeeee&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mnicolas94&theme=darkhub"/>
 </p>
 
-<!--
-**mnicolas94/mnicolas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnicolas94&stroke=eeeeee&background=181824&ring=eeeeee&fire=eeeeee&currStreakNum=eeeeee&currStreakLabel=eeeeee&sideNums=eeeeee&sideLabels=eeeeee&dates=eeeeee&hide_border=true"/>
-</p>
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
