@@ -12,6 +12,11 @@
   <a href="https://github.com/mnicolas94"><img src="https://img.shields.io/github/followers/mnicolas94?label=follow&style=social"/></a>
 </p>
 
+<h2><a href="https://profile.codersrank.io/user/mnicolas94">CodersRank</a> stats</h2>
+<p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mnicolas94&style=--header-bg-color:%23181818;--bg-color:%23181818;--badge-bg-color:%23323232"/>
+</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mnicolas94&count_private=true&theme=github_dark&bg_color=181818&hide_border=true&show_icons=true&custom_title=Github%20stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnicolas94&hide=ShaderLab,HLSL&layout=compact&theme=github_dark&bg_color=181818&hide_border=true"/>
