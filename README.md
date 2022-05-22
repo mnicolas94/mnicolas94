@@ -7,7 +7,7 @@
 </p>
   
 <p align="center">
-  <a href="https://mnicolas94.github.io"><img src="https://komarev.com/ghpvc/?username=mnicolas94&label=Views&color=lightgrey&style=flat"/></a>
+  <a href="https://github.com/mnicolas94"><img src="https://komarev.com/ghpvc/?username=mnicolas94&label=Views&color=lightgrey&style=flat"/></a>
   <a href="https://twitter.com/MiguelCokTSM"><img src="https://img.shields.io/twitter/follow/MiguelCokTSM?style=social"/></a>
   <a href="https://github.com/mnicolas94"><img src="https://img.shields.io/github/followers/mnicolas94?label=follow&style=social"/></a>
   <a href="https://profile.codersrank.io/user/mnicolas94"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=flat&logo=CodersRank&logoColor=white"/></a>
