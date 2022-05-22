@@ -12,16 +12,17 @@
   <a href="https://github.com/mnicolas94"><img src="https://img.shields.io/github/followers/mnicolas94?label=follow&style=social"/></a>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mnicolas94&count_private=true&theme=github_dark&bg_color=181818&hide_border=true&show_icons=true&custom_title=Github%20stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnicolas94&hide=ShaderLab,HLSL&theme=github_dark&bg_color=181818&hide_border=true"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnicolas94&hide=ShaderLab,HLSL&layout=compact&theme=github_dark&bg_color=181818&hide_border=true"/>
+</div>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=mnicolas94&bg_color=181818&color=58A6FF&line=C3D1D9&point=1F6FEB&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mnicolas94&theme=darkhub"/>
 </p>
 
 <!--
