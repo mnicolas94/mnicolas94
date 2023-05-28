@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mnicolas94&bg_color=181818&color=58A6FF&line=C3D1D9&point=1F6FEB&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnicolas94&bg_color=181818&color=58A6FF&line=C3D1D9&point=1F6FEB&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
   </a>
 </p>
 
