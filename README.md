@@ -11,6 +11,7 @@
   <a href="https://twitter.com/MiguelCokTSM"><img src="https://img.shields.io/twitter/follow/MiguelCokTSM?style=social"/></a>
   <a href="https://github.com/mnicolas94"><img src="https://img.shields.io/github/followers/mnicolas94?label=follow&style=social"/></a>
   <a href="https://profile.codersrank.io/user/mnicolas94"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=flat&logo=CodersRank&logoColor=white"/></a>
+  <a href="https://user-badge.committers.top/cuba_private/mnicolas94"><img src="https://user-badge.committers.top/cuba_private/mnicolas94.svg"/></a>
 </p>
 
 <div align="center">
